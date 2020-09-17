@@ -1,4 +1,4 @@
-Github Unassigned Open PullRequests and Issues
+Github Handled Issues by Support
 ============
 
 * install dependecies:
